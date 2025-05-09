@@ -1,20 +1,40 @@
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="100px">
+</p>
 
-<p align="left">
+<h1 align="center">Hi 👋, I'm Vishmitha Hashendra</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="vishmithahash" />
 </p>
 
-- 🌱 I’m currently learning **Python**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🌱 I’m currently learning **Python, MERN Stack**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vishmithahash](https://github.com/Vishmithahash)
+- 💬 Ask me about **C**
+
+- 👨‍💻 All of my projects are available at [github.com/Vishmithahash](https://github.com/Vishmithahash)
 
 - 📫 How to reach me **vishmithahashendraa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact: **I'm also interested in mobile UI design**
+
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://github.com/Vishmithahash/Vishmithahash/blob/main/animation.gif">
+
+</td>
+</tr>
+</table>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
