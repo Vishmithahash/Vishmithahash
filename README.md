@@ -91,4 +91,13 @@
 ---
 
 
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishmitha-hashendra-419b072b0" target="blank">
+    <img src="https://github.com/Vishmithahash/Skill-Icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1AfYcQUKyK/?mibextid=wwXIfr" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="60" height="60"/>
+  </a>
+</p>
