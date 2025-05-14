@@ -13,7 +13,19 @@
 <tr border="none">
 
 
+<td width="50%" align="left">
 
+- 🌱 I’m currently learning **Python, MERN Stack**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **C**
+
+- 📫 How to reach me **vishmithahashendraa@gmail.com**
+
+- ⚡ Fun fact: **I'm also interested in mobile UI design**
+
+</td>
   
 
 
